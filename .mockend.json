@@ -1,10 +1,12 @@
 {
   "User" : [
-    "id" : "aaa",
-    "pw" : "pwaaa"
-  },
-  {
-    "id" : "bbb",
-    "pw" : "pwbbb"
+    {
+      "id" : "aaa",
+      "pw" : "pwaaa"
+    },
+    {
+      "id" : "bbb",
+      "pw" : "pwbbb"
+    }
   ]
 }
