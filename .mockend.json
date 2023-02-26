@@ -1,12 +1,7 @@
 {
-  "User" : [
-    {
-      "id" : "aaa",
-      "pw" : "pwaaa"
-    },
-    {
-      "id" : "bbb",
-      "pw" : "pwbbb"
+  "User" : {
+    "name" : {
+      "string": {}
     }
-  ]  
+  }
 }
