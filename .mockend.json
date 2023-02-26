@@ -1,6 +1,8 @@
-{
-  "User": {
-    "id": "aaa",
-    "pw": "pw_aaa"
+[
+  {
+    "User": {
+      "id": "aaa",
+      "pw": "pw_aaa"
+    }
   }
-}
+]
